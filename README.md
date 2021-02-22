@@ -7,11 +7,11 @@
 - If User Answer is right, a green tick is shown else red cross.
 <br> <br>
 
-![s1](https://github.com/vishal-mourya/english-to-hindi-word-changer/blob/main/pics/s1.png?raw=true) <br> <br>
+![s1](https://github.com/vishal-mourya/quizz-app-flutter/blob/main/pics/s1.png?raw=true) <br> <br>
 
-![s2](https://github.com/vishal-mourya/english-to-hindi-word-changer/blob/main/pics/s2.png?raw=true) <br> <br>
+![s2](https://github.com/vishal-mourya/quizz-app-flutter/blob/main/pics/s2.png?raw=true) <br> <br>
 
-![s3](https://github.com/vishal-mourya/english-to-hindi-word-changer/blob/main/pics/s3.png?raw=true) <br> <br>
+![s3](https://github.com/vishal-mourya/quizz-app-flutter/blob/main/pics/s3.png?raw=true) <br> <br>
 
 
 - Still Working on Improvements
